@@ -10,8 +10,8 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 from jupyter_dash import JupyterDash
 
-df = pd.read_excel(r"data\Ecoshoe results raw new.xlsx")
-materials_df = pd.read_excel(r"data\Materials.xlsx")
+df = pd.read_excel(r"Ecoshoe results raw new.xlsx")
+materials_df = pd.read_excel(r"Materials.xlsx")
 
 color_map = {
     'Traditional':'rgb(102,102,102)',
