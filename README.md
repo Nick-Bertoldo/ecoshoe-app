@@ -4,8 +4,6 @@ Created on 2023-04-21 11:42:47.793476
 
 This is a simple app for eco-design shoes. It was implemented as part of a Master's thesis at Politecnico di Milano.
 
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App!
-
 See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
 
 ## Running the App
