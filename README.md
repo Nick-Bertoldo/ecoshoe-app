@@ -1,8 +1,10 @@
-# Dash Default Template: ecoshoe_app
+# ecoshoe_app
 
 Created on 2023-04-21 11:42:47.793476
 
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your ecoshoe_app app.
+This is a simple app for eco-design shoes. It was implemented as part of a Master's thesis at Politecnico di Milano.
+
+Welcome to your [Plotly Dash](https://plotly.com/dash/) App!
 
 See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
 
