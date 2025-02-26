@@ -6,6 +6,9 @@ This is a simple app for eco-design shoes. It was implemented as part of a Maste
 
 See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
 
-## Running the App
+## Try the app:
+[ecoshoe app](https://ecoshoe-app.onrender.com/)
+
+## Running the App locally:
 
 Run `src/app.py` and navigate to http://127.0.0.1:8050/ in your browser.
